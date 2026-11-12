@@ -1,0 +1,6 @@
+{
+  "name": "Kitapal Atyrau",
+  "description": "«Қазақстанды кітап оқитын елге айналдырайық!» — Kitapal Atyrau заманауи кітап дүкені, әдеби клуб және жобалар кеңістігі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
